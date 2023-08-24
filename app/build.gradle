@@ -39,7 +39,7 @@ android {
 }
 
 dependencies {
-    implementation "androidx.legacy_legacy-support-v4"
-    implementation "androidx.gridlayout_gridlayout"
-    implementation "androidx.recyclerview_recyclerview"
+    implementation "androidx.legacy_legacy-support-v4:latest.release"
+    implementation "androidx.gridlayout_gridlayout:latest.release"
+    implementation "androidx.recyclerview_recyclerview:latest.release"
 }
